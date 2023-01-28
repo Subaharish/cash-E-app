@@ -12,7 +12,7 @@
 .main-container{
     /* height: 100vh; */
     overflow: hidden;
-    background-image: url('/assets/bg.png');
+    background-image: url('assets/bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     /* overflow-x: hidden; */
